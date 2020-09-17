@@ -1,0 +1,2 @@
+# AlgoSeq
+Generative Algorithmic Sequencer
