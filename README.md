@@ -12,6 +12,8 @@ Functions to be added
 - Algorithm selection
 - MIDI Clock input control
 - Crow cv/gate output
+  - sequencer outs 1 & 3
+  - gate outs from algorithm
 - Crow clock input 
 - Visual feedback of algorithm
 
