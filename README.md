@@ -12,6 +12,7 @@ Functions to be added
 - Algorithm selection
 - MIDI Clock input control
 - Crow cv/gate output
+- Crow clock input 
 - Visual feedback of algorithm
 
 Further down the pipeline/pipe dreams
