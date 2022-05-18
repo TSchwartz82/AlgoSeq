@@ -12,11 +12,9 @@ Functions to be added
 - Algorithm selection
 - MIDI Clock input control
 - Crow cv/gate output
-  - sequencer outs 1 & 3
+  - sequencer output
   - gate outs from algorithm
 - Crow clock input 
 - Visual feedback of algorithm
-
-Further down the pipeline/pipe dreams
 - Grid/Arc input
 - Just Friends/i2c 
